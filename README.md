@@ -1,1 +1,1 @@
-Kyro-Status
+Kyro's Static Status Page
